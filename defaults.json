@@ -1,0 +1,13 @@
+{
+  "app": "mock-issue-tracker",
+  "title": "Issue Tracker \u00b7 Fictional demo",
+  "port": 4307,
+  "allowedActions": [
+    "signin",
+    "identity",
+    "read",
+    "observation-status",
+    "comment",
+    "reconcile"
+  ]
+}
