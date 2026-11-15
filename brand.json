@@ -1,0 +1,19 @@
+{
+  "id": "mock-issue-tracker",
+  "name": "Signal Desk",
+  "mark": "SD",
+  "tagline": "Turn a signal into a resolution.",
+  "colors": {
+    "background": "#fff7e6",
+    "surface": "#ffffff",
+    "text": "#3d321c",
+    "accent": "#8a5400"
+  },
+  "typography": {
+    "display": "Arial Narrow, Arial, sans-serif",
+    "body": "Tahoma, sans-serif",
+    "tracking": ".06em"
+  },
+  "style": "triage",
+  "radius": 6
+}
